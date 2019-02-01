@@ -1,6 +1,7 @@
-# Redux Crash Course
+# fcc-quote
+Markdown Previewer with React and Redux for Free Code Camp
 
-> Code from the "Redux Crash Course With React" video. Simple implementation of Redux using a couple React components.
+Demo https://jopf.re/markdown/
 
 ## Quick Start
 
