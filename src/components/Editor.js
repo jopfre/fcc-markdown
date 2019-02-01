@@ -16,7 +16,7 @@ class Editor extends Component {
 	}
 	render() {
 		return (
-			<div>
+			<div id="editor-container">
 				<h2>Editor</h2>
 	      <textarea id="editor" onChange={this.handleChange} rows="20" defaultValue={this.props.markdown} />
 			</div>

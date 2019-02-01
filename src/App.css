@@ -16,16 +16,20 @@ h2 {
 	background-color: beige;
 }
 
-#editor, #preview {
+#editor-container, #preview-container {
   margin: 8px;
   width: 100%;
+}
+
+#editor {
+	width: 100%;
 }
 
 @media screen and (min-width: 768px) {	
 	.row {
 		display: flex;		
 	}
-	#editor, #preview {
+	#editor-container, #preview-container {
 	  width: 50%;
 	}
 }
